@@ -1,0 +1,16 @@
+{
+  "name": "qualidade-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "poku"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "poku": "^3.0.2"
+  }
+}
